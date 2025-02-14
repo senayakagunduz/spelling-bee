@@ -1,0 +1,30 @@
+
+{
+    "words": [
+      {
+        "word": "computer",
+        "category": "technology",
+        "difficulty": "medium"
+      },
+      {
+        "word": "elephant",
+        "category": "animals",
+        "difficulty": "medium"
+      },
+      {
+        "word": "beautiful",
+        "category": "adjectives",
+        "difficulty": "medium"
+      },
+      {
+        "word": "programming",
+        "category": "technology",
+        "difficulty": "hard"
+      },
+      {
+        "word": "pencil",
+        "category": "objects",
+        "difficulty": "easy"
+      }
+    ]
+  }
